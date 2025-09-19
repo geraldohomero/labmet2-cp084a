@@ -1,2 +1,2 @@
-# labmet2-cp084a
+# LabMet2 - CP084-A
 Some R scripts
